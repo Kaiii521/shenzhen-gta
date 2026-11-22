@@ -11,6 +11,28 @@
 
 打开方式：双击任一文件，用 Chrome / Edge 打开即可。**不需要联网、不需要装任何东西**，也没有用任何第三方库。
 
+## 截图
+
+| 3D 版街道 | 抓钩摆荡 |
+|---|---|
+| ![3D 街道](street3d.webp) | ![抓钩摆荡](swing.webp) |
+
+| 飞坡 | 导弹爆炸 |
+|---|---|
+| ![摩托车飞坡](ramp-jump.webp) | ![导弹爆炸](explosion.webp) |
+
+| 军事机场 | 高空航拍 |
+|---|---|
+| ![军事机场](airport-expanded.webp) | ![高空航拍](high-altitude.webp) |
+
+| 武器轮盘 | 拓宽后的路口 + 红绿灯 |
+|---|---|
+| ![武器轮盘](wheel.webp) | ![宽路](wide-road.webp) |
+
+| 冲击波 | 2D 版 |
+|---|---|
+| ![冲击波](shockwave.webp) | ![2D 版](hero.webp) |
+
 ---
 
 ## 操作

@@ -1,4 +1,4 @@
-﻿# 依赖 / 构建产物
+# 依赖 / 构建产物
 node_modules/
 
 # 测试用的无头浏览器临时 profile
@@ -7,6 +7,7 @@ node_modules/
 
 # 临时脚本
 _*.js
+_*.py
 
 # 系统垃圾
 .DS_Store
