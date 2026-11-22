@@ -1,0 +1,16 @@
+{
+  "name": "shenzhen-gta",
+  "version": "0.9.0",
+  "description": "GTA-inspired single-file browser game set in a stylized Shenzhen (2D + 3D)",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiii521/shenzhen-gta.git"
+  },
+  "scripts": {
+    "test": "node tests/run.js",
+    "test:features": "node tests/run.js features",
+    "test:smoke": "node tests/run.js smoke"
+  }
+}
