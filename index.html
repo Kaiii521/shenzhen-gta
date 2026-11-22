@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>鹏城风云 · 深圳开放世界</title>
+<style>
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex; align-items: center; justify-content: center;
+    background: radial-gradient(circle at 50% 30%, #16202e 0%, #05070b 70%);
+    color: #e8eef8;
+    font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans SC", system-ui, sans-serif;
+  }
+  .box { text-align: center; padding: 32px; max-width: 640px; }
+  h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: 2px; }
+  p.sub { color: #8ba3bf; font-size: 13px; margin: 0 0 28px; line-height: 1.8; }
+  .btns { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+  a.btn {
+    display: block; min-width: 190px; padding: 18px 26px;
+    border: 1px solid rgba(122,176,255,.28); border-radius: 14px;
+    background: rgba(12,20,32,.72); color: #e8eef8; text-decoration: none;
+    transition: .18s;
+  }
+  a.btn:hover { border-color: #5cc8ff; background: rgba(24,44,68,.9); transform: translateY(-2px); }
+  a.btn b { display: block; font-size: 17px; margin-bottom: 4px; }
+  a.btn span { font-size: 12px; color: #8ba3bf; }
+  .tip { margin-top: 26px; font-size: 12px; color: #62788f; }
+</style>
+</head>
+<body>
+  <div class="box">
+    <h1>鹏城风云</h1>
+    <p class="sub">
+      仿 GTA 玩法的单文件网页游戏 · 地图按深圳真实地标重建<br />
+      纯手写渲染，无第三方库，离线可玩
+    </p>
+    <div class="btns">
+      <a class="btn" href="shenzhen-gta-3d.html">
+        <b>3D 版</b><span>第三人称追尾视角 · WebGL2</span>
+      </a>
+      <a class="btn" href="shenzhen-gta.html">
+        <b>2D 版</b><span>俯视视角 · Canvas 2D</span>
+      </a>
+    </div>
+    <div class="tip">建议用 Chrome / Edge 打开 · 按 P 暂停</div>
+  </div>
+</body>
+</html>

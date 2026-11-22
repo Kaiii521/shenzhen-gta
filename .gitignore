@@ -1,0 +1,14 @@
+﻿# 依赖 / 构建产物
+node_modules/
+
+# 测试用的无头浏览器临时 profile
+.cp/
+.chrome/
+
+# 临时脚本
+_*.js
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+*.log
